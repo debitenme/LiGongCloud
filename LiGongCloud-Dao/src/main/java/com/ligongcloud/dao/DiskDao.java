@@ -26,7 +26,7 @@ import com.ligongcloud.util.StringUtil;
 @Component("diskDao")
 public class DiskDao {
 
-	public static final String BASELOCATION = "H:\\disk\\";
+	public static final String BASELOCATION = "E:\\disk\\";
 
 	@Autowired
 	private SessionFactory sessionFactory;
