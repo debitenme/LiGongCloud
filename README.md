@@ -28,4 +28,4 @@
 要不说当时年轻，知识少呢，现在想想......可以更好的</br>
 ![image](https://github.com/hejiawang/LiGongCloud/raw/master/ligongcloudImage/ligongcloud-login.png)
 ![image](https://github.com/hejiawang/LiGongCloud/raw/master/ligongcloudImage/main.png)
-![image](https://github.com/hejiawang/LiGongCloud/raw/master/ligongcloudImage/main.png)
+![image](https://github.com/hejiawang/LiGongCloud/raw/master/ligongcloudImage/main2.png)
