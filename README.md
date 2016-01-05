@@ -34,3 +34,5 @@
 
 
 ![image](https://github.com/hejiawang/LiGongCloud/raw/master/ligongcloudImage/main2.png)
+
+ubuntu test
